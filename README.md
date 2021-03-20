@@ -1,0 +1,2 @@
+# Titanic-Survivor-Prediction
+RMS TITANIC was a British  passenger liner that started its journey with 2200   passengers and four days later sank in the Northern Atlantic Ocean in the early morning of 15th April 1912. Around 1500 people died and 700 survived the tragedy.     In this project, a model is build that could successfully determine chance of survival and derive conclusions using different models .
